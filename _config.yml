@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://clari2016.github.io
+title: patavinas
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 5
